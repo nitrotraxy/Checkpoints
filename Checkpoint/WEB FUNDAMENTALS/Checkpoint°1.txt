@@ -1,0 +1,13 @@
+Q1 :How does the web work?
+Answer1 : To work in wob you need A computer connected to internet and browser, the web use client server system your
+computer is the client and the distination we want to reach is the server , so you type just the domaine name for example
+www.google.com , means u r requesting to go to google, WEB doesnt understand domaine name , he only knows IP Adresses ,
+Here we use the DNS which is a translator of domaine to adresse IP when DNS found the IP @  we go directly to the page we want to reach
+
+Q2 : What do you need to be a web developer?
+Answer2 : To become a Web Developer, you should have an understanding of HTML, CSS, and JavaScript. It’s also recommended to learn about CSS and CSS frameworks. Developing these fundamental web development skills will give you the foundation and logic for communicating with programming languages.
+
+Q3 : Why did you choose to learn web development?
+Answer3 : As an IT engineer i must have a large knowledge in my domaine i work as APPS Administrator in big company and i need to know more about WEB devloppement
+because i  have always project to do in my work , and lot of solutions i want to make needs web devloppement , app , Web sites , and my project this year is making E-COMMERCE WEBITE for the company i work for
+also Devlopping is so Enjoyable work i enjoy writing codes and sloving problems
